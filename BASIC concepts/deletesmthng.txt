@@ -1,0 +1,1 @@
+DELETE FROM `book_detail` WHERE `book_detail`.`id` =5 LIMIT 1 ;

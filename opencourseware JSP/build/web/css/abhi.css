@@ -1,0 +1,39 @@
+#button {
+	background-color: #663366;
+	color: #FFFFCC;
+	font-size: 16px;
+}
+#announce
+{
+    background-color: #FFFFCC;
+    color: #663366;
+    font-size: 18px;
+    font-weight: bold;
+}
+#mdid
+{
+    position: absolute;
+    right: 20%;
+    top: 40%;
+}
+.text
+{
+    background-color: #FFFFCC;
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+}
+.dropdown
+{
+    background-color: #FFFFCC;
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+.validatemsg
+{
+  color: red;
+   font-size: 14px;
+   font-weight: bold;
+}

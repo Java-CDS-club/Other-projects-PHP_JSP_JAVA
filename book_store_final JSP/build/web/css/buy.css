@@ -1,0 +1,159 @@
+#addresslabel {
+	position: absolute;
+	left: 218px;
+	top: 583px;
+}
+#textarea1 {
+	position: absolute;
+	left: 447px;
+	top: 552px;
+	color: #FF0000;
+	background-color: #FFCC66;
+}
+#addresslabel2 {
+	position: absolute;
+	left: 465px;
+	top: 641px;
+	width: 288px;
+}
+#button {
+	position: absolute;
+	left: 522px;
+	top: 737px;
+	background-color: #FF66FF;
+}
+#l1 {
+	position: absolute;
+	left: 230px;
+	top: 344px;
+}
+#l2 {
+	position: absolute;
+	left: 230px;
+	top: 383px;
+}
+#l3 {
+	position: absolute;
+}
+#l4 {
+	position: absolute;
+	left: 229px;
+	top: 412px;
+}
+#l5 {
+	position: absolute;
+	left: 230px;
+	top: 446px;
+}
+#l6 {
+	position: absolute;
+	left: 228px;
+	top: 485px;
+}
+#t1 {
+		position: absolute;
+	left: 474px;
+	top: 343px;
+	background-color: #FFCC66;
+	font-family: "Courier New", Courier, monospace;
+	color: #FF0000;
+	font-size: 14px;
+	font-weight: bold;
+}
+#t2 {
+		position: absolute;
+	left: 474px;
+	top: 379px;
+	background-color: #FFCC66;
+	font-family: "Courier New", Courier, monospace;
+	color: #FF0000;
+	font-size: 14px;
+	font-weight: bold;
+}
+#t3 {
+		position: absolute;
+	left: 473px;
+	top: 412px;
+	background-color: #FFCC66;
+	font-family: "Courier New", Courier, monospace;
+	color: #FF0000;
+	font-size: 14px;
+	font-weight: bold;
+}
+#t4 {
+		position: absolute;
+	left: 474px;
+	top: 444px;
+	background-color: #FFCC66;
+	font-family: "Courier New", Courier, monospace;
+	color: #FF0000;
+	font-size: 14px;
+	font-weight: bold;
+}
+#t5 {
+		position: absolute;
+	left: 475px;
+	top: 484px;
+	background-color: #FFCC66;
+	font-family: "Courier New", Courier, monospace;
+	color: #FF0000;
+	font-size: 14px;
+	font-weight: bold;
+}
+#t6 {
+		position: absolute;
+	left: 465px;
+	top: 107px;
+	background-color: #FFCC66;
+	font-family: "Courier New", Courier, monospace;
+	color: #FF0000;
+	font-size: 14px;
+	font-weight: bold;
+}
+#content {
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+}
+#m1 {
+	position: absolute;
+	left: 695px;
+	top: 343px;
+	width: 193px;
+}
+#m2 {
+	position: absolute;
+	left: 695px;
+	top: 379px;
+	width: 193px;
+}
+#m3 {
+	position: absolute;
+	left: 695px;
+	top: 412px;
+	width: 193px;
+}
+#m4 {
+	position: absolute;
+	left: 695px;
+	top: 445px;
+	width: 193px;
+}
+#m5 {
+	position: absolute;
+	left: 694px;
+	top: 485px;
+	width: 193px;
+}
+#m6 {
+	position: absolute;
+	left: 783px;
+	top: 579px;
+	width: 193px;
+}
+#m7 {
+	position: absolute;
+	left: 521px;
+	top: 691px;
+	width: 229px;
+	height: 27px;
+}

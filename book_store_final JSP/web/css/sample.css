@@ -1,0 +1,41 @@
+#first {
+	background-color: #FF00FF;
+	position: absolute;
+	width: 298px;
+	height: 156px;
+	left: 558px;
+	top: 106px;
+}
+#sub {
+	background-color: #6699FF;
+}
+#form1 {
+	background-color: #6633FF;
+	position: absolute;
+	left: 84px;
+	top: 101px;
+	width: 361px;
+	height: 388px;
+	text-align: left;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 24px;
+}
+#t1
+{
+	position: absolute;
+	left: 113px;
+	top: 123px;
+	background-color: #FFCC66;
+	width: 160px;
+	height: 32px;
+}
+#form1 textarea {
+	position: absolute;
+	left: 111px;
+	top: 33px;
+	background-color: #FFCC66;
+	font-family: "Courier New", Courier, monospace;
+	color: #FF0000;
+	font-size: 14px;
+	font-weight: bold;
+}

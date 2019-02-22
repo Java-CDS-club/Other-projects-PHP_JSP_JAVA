@@ -1,0 +1,54 @@
+#t1 {
+	color: #FF0000;
+	background-color: #FFCC33;
+	position: absolute;
+	left: 215px;
+	top: 182px;
+}
+#submit {
+	background-color: #FF66CC;
+	position: absolute;
+	left: 532px;
+	top: 225px;
+}
+
+#t2 {
+	color: #FF0000;
+	background-color: #FFCC33;
+	position: absolute;
+	left: 514px;
+	top: 182px;
+}
+#t3 {
+	color: #FF0000;
+	background-color: #FFCC33;
+	position: absolute;
+	left: 779px;
+	top: 182px;
+}
+#l1 {
+	position: absolute;
+	left: 130px;
+	top: 183px;
+}
+#l2 {
+	position: absolute;
+	left: 412px;
+	top: 183px;
+}
+
+#l3 {
+	position: absolute;
+	left: 747px;
+	top: 183px;
+}
+#l4 {
+	position: absolute;
+	left: 669px;
+	top: 184px;
+}
+#l5 {
+	position: absolute;
+	left: 371px;
+	top: 184px;
+}

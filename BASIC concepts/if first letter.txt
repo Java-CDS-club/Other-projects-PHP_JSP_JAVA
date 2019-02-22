@@ -1,0 +1,52 @@
+     //
+        // if first letter has to be matched
+        //
+//String name_sub="",author_sub="",temp4_sub="",temp5_sub="";
+          Statement stm2=con.createStatement();
+        String qry2="select * from book_detail";
+     
+        try
+                {
+        String  name_sub = name.substring(0,1);
+        out.println("name_sub:"+name_sub);
+        String author_sub = author.substring(0,1);
+        out.println("author_sub:"+author_sub);
+         ResultSet rst2=stm2.executeQuery(qry2);
+         out.println(rst2);
+     
+
+        while(rst2.next())
+            {
+             String temp4=rst2.getString("book_name");
+             String temp5=rst2.getString("book_author");
+             String temp4_sub=temp4.substring(0,1);
+             String   temp5_sub=temp5.substring(0,1);
+             out.println("inside while:"+temp4);
+             out.println("insude while:"+temp5);
+             
+              if(name_sub==temp4_sub || author_sub==temp5_sub )
+                  {
+                  out.println("<tr><td>ID</td><td>BOOK NAME</td><td>AUTHOR NAME</td><td>PRICE</td></tr>");
+
+             String temp1=rst.getString("id");
+             String temp2=rst.getString("book_name");
+             String temp3=rst.getString("book_author");
+             String temp6=rst.getString("book_price");
+
+             out.println("<tr>");
+             out.println("<td>"+temp1+"</td>");
+             out.println("<td>"+temp2+"</td>");
+             out.println("<td>"+temp3+"</td>");
+             out.println("<td>"+temp6+"</td>");
+             out.println("</tr>");
+
+                   out.println("</table>");
+                  }
+
+            }
+          }
+        catch(Exception e)
+                { //out.println(e);
+            }
+
+  

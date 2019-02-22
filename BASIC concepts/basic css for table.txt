@@ -1,0 +1,17 @@
+<table width="301" height="195" border='1' align='center' cellpadding='1' bordercolor='#000000' bgcolor='#9999FF' id='table1'>
+  <tr bgcolor='#9966FF'>
+    <th>asasdasadsda</th>
+    <th>a</th>
+    <th>hfhgHGFGH</th>
+  </tr>
+  <tr>
+    <td>adsdas</td>
+    <td>d</td>
+    <td>ghfhg</td>
+  </tr>
+  <tr>
+    <td>hgfh</td>
+    <td>hgf</td>
+    <td>fhfh</td>
+  </tr>
+</table>

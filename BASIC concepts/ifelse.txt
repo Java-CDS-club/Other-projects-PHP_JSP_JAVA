@@ -1,0 +1,17 @@
+  while(rst.next())
+            {
+            String temp1 = rst.getString("username");
+            String temp2 = rst.getString("password");
+            if((usr.equals(temp1))&&(pass.equals(temp2)))
+                {
+                out.println("user verified");
+                break;
+                }
+            else
+                {
+                  out.println("user record not found");
+                }
+            out.println("loop wala"+temp1+"<br>");
+            out.println("loop wala"+temp2+"<br>");
+            }
+}

@@ -1,0 +1,27 @@
+#content {
+	background-color: #6633FF;
+	position: absolute;
+	left: 30px;
+	top: 84px;
+	width: 1280px;
+	height: 388px;
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 24px;
+        color: white;
+}#I1 {
+	position: absolute;
+	left: 954px;
+	top: 58px;
+	width: 296px;
+	height: 277px;
+	background-image: url(images/img2.GIF);
+	background-repeat: no-repeat;
+}
+#C1 {
+	position: absolute;
+	left: 167px;
+	top: 73px;
+	width: 720px;
+	height: 233px;
+}

@@ -1,0 +1,56 @@
+#table1 {
+	position: absolute;
+	width: 806px;
+	height: 326px;
+	left: 95px;
+	top: 58px;
+}
+#l1 {
+	position: absolute;
+	left: 870px;
+	top: 250px;
+}
+#tf1
+{
+	color: #FF0033;
+	background-color: #FFCC33;
+	position:absolute;
+	left: 970px;
+	top: 250px;
+}
+
+#l2 {
+	position: absolute;
+	left: 870px;
+	top: 290px;
+}
+
+#tf2
+{
+	color: #FF0033;
+	background-color: #FFCC33;
+	position:absolute;
+	left: 970px;
+	top: 290px;
+}
+#l3 {
+	position: absolute;
+	left: 870px;
+	top: 330px;
+}
+
+#tf3
+{
+	color: #FF0033;
+	background-color: #FFCC33;
+	position:absolute;
+	left: 970px;
+	top: 330px;
+}
+#submit {
+	background-color: #FF66FF;
+	position: absolute;
+	left: 1014px;
+	top: 366px;
+}
+

@@ -1,0 +1,76 @@
+#content {
+	position: absolute;
+	left: 537px;
+	top: 138px;
+	width: 572px;
+	height: 371px;
+}
+#jsp {
+	position: absolute;
+}
+#l1 {
+	position: absolute;
+	left: 470px;
+	top: 250px;
+}
+
+#tf1
+{
+	color: #FF0033;
+	background-color: #FFCC33;
+	position:absolute;
+	left: 570px;
+	top: 250px;
+}
+#submit {
+	background-color: #FF66FF;
+	position: absolute;
+	left: 614px;
+	top: 366px;
+}
+#l2 {
+	position: absolute;
+	left: 470px;
+	top: 290px;
+}
+
+#tf2
+{
+	color: #FF0033;
+	background-color: #FFCC33;
+	position:absolute;
+	left: 570px;
+	top: 290px;
+}
+#l3 {
+	position: absolute;
+	left: 470px;
+	top: 330px;
+}
+
+#tf3
+{
+	color: #FF0033;
+	background-color: #FFCC33;
+	position:absolute;
+	left: 570px;
+	top: 330px;
+}
+#m1 {
+	position: absolute;
+		left: 770px;
+	top: 250px;
+	width: 332px;
+}
+#m2 {
+	position: absolute;
+	left: 770px;
+	top: 291px;
+	width: 332px;
+}
+#m3 {
+	position: absolute;
+	left: 770px;
+	top: 330px;
+	width: 332px;
+}

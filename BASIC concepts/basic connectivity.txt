@@ -1,0 +1,6 @@
+Class.forName("com.mysql.jdbc.Driver");
+//Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
+con = DriverManager.getConnection("jdbc:mysql://localhost:3306","root","vertrigo");
+stmt = con.createStatement();
+stmt.executeUpdate("CREATE DATABASE rajni");
+con.close();

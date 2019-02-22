@@ -1,0 +1,9 @@
+<head>
+ 
+<title>Webcredible - JavaScript tutorial - form validation</title>
+ 
+<style type="text/css">@import "css.css";</style>
+ 
+<script type="text/javascript" src="js.js"></script>
+ 
+</head>

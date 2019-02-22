@@ -1,0 +1,5 @@
+<a href='websites/webtrack.php?webname=http://asd'>http://asd</a><br /><font color=#FF00CC>type:commercial</font><br />description:asd<br />
+
+<a href='websites/webtrack.php?webname=http://ra.lol.vom'>http://ra.lol.vom</a><br /><font color=#FF00CC>type:entertainment</font><br />description:ssnlhnlnln<br />
+
+<a href='websites/webtrack.php?webname=http://s.s.s'>http://s.s.s</a><br /><font color=#FF00CC>type:commercial</font><br />description:ss<br />
